@@ -1,17 +1,24 @@
-## Getting Started
+TAREA DE TABLAS DE RESULTADOS DE CONDUCTORES EN UN TABLEVIEW
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+El código crea una aplicación gráfica en Java utilizando Swing que se conecta a una base de datos PostgreSQL para mostrar información sobre conductores y carreras en una tabla; permite al usuario seleccionar un año desde un JComboBox, actualizando la tabla con los detalles de los conductores que participaron en carreras durante ese año, incluyendo su nombre, apellido, fecha de nacimiento, nacionalidad, número de carreras y carreras ganadas
 
-## Folder Structure
+Captura de la ejecucion
 
-The workspace contains two folders by default, where:
+![codigo](https://github.com/user-attachments/assets/dfdc5de9-2fee-4169-ad61-ef349a8bf480)
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+![Captura de pantalla (16)](https://github.com/user-attachments/assets/8731b7c6-2d52-4986-af36-da2c103a42c5)
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+
+
+
+
+
+
+
+
+.
+
 
 ## Dependency Management
 
