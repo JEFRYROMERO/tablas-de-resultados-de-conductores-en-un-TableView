@@ -3,14 +3,14 @@
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
-        "c:\\Users\\jose1\\Desktop\\javafx-sdk-17.0.8\\lib\\javafx.base.jar",
-        "c:\\Users\\jose1\\Desktop\\javafx-sdk-17.0.8\\lib\\javafx.controls.jar",
-        "c:\\Users\\jose1\\Desktop\\javafx-sdk-17.0.8\\lib\\javafx.fxml.jar",
-        "c:\\Users\\jose1\\Desktop\\javafx-sdk-17.0.8\\lib\\javafx.graphics.jar",
-        "c:\\Users\\jose1\\Desktop\\javafx-sdk-17.0.8\\lib\\javafx.media.jar",
-        "c:\\Users\\jose1\\Desktop\\javafx-sdk-17.0.8\\lib\\javafx.swing.jar",
-        "c:\\Users\\jose1\\Desktop\\javafx-sdk-17.0.8\\lib\\javafx.web.jar",
-        "c:\\Users\\jose1\\Desktop\\javafx-sdk-17.0.8\\lib\\javafx-swt.jar",
-        "c:\\Users\\jose1\\Downloads\\postgresql-42.7.0.jar"
+        
+    "c:\\JavaFx\\lib\\javafx.fxml.jar",
+        "c:\\JavaFx\\lib\\javafx.swing.jar",
+        "c:\\JavaFx\\lib\\javafx.controls.jar",
+        "c:\\JavaFx\\lib\\javafx.web.jar",
+        "c:\\JavaFx\\lib\\javafx.graphics.jar",
+        "c:\\JavaFx\\lib\\javafx.media.jar",
+        "c:\\JavaFx\\lib\\javafx-swt.jar",
+        "c:\\JavaFx\\lib\\javafx.base.jar"
     ]
 }
